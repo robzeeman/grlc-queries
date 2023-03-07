@@ -3,6 +3,7 @@
 #+ pagination: 100
 #+ tags:
 #+  - Geo
+#+  - Golden Agents
 #+ endpoint: https://data.create.humanities.uva.nl/sparql
 
 PREFIX hg: <http://rdf.histograph.io/>
