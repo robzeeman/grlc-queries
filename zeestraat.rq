@@ -1,6 +1,8 @@
 #+ summary: Adresses Golden Agents with streetnames starting with 'zee'
 #+ description: Example query for testing the HuC Geo Plugin for Yasgui. Also usable for the grlc test
 #+ pagination: 100
+#+ tags:
+#+  - Geo
 #+ endpoint: https://data.create.humanities.uva.nl/sparql
 
 PREFIX hg: <http://rdf.histograph.io/>
