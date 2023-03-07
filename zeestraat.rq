@@ -1,3 +1,6 @@
+#+ summary: Adresses Golden Agents with streetnames starting with 'zee'
+#+ pagination: 100
+
 PREFIX hg: <http://rdf.histograph.io/>
 PREFIX geo: <http://www.opengis.net/ont/geosparql#>
 PREFIX schema: <https://schema.org/>
@@ -19,4 +22,4 @@ SELECT * WHERE {
   
   FILTER(REGEX(?streetLabel, 'zee', 'i'))
   
-} LIMIT 100
+} 
